@@ -16,9 +16,3 @@ Run the Makefile to compile the `libmy_malloc.so`:
 ```bash
 $ make
 ```
-
-## Project results
-
-This project got me the sweet mark of 22 out of 20 at the time :)
-
-![mark](.readme/mark.png)
