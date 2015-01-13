@@ -1,6 +1,6 @@
 # my_malloc
 
-A personal [malloc](http://linux.die.net/man/3/malloc) implementation written in a few days for a 2nd year EPITECH (2010-2011) project.
+A personal [malloc](http://unixhelp.ed.ac.uk/CGI/man-cgi?malloc+3) implementation written in a few days for a 2nd year EPITECH (2010-2011) project.
 
 ## Details
 
