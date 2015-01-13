@@ -1,6 +1,6 @@
 # my_malloc
 
-A personal malloc (+ free & realloc) implementation written in a few days for a 2nd year EPITECH (2010-2011) project.
+A personal [malloc](http://linux.die.net/man/3/malloc) (+ free & realloc) implementation written in a few days for a 2nd year EPITECH (2010-2011) project.
 
 ## Details
 
